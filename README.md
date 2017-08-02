@@ -1,5 +1,4 @@
-# testproject
-project for learning GitHub
+# Project for learning GitHub
 
 Date: 2017-08-02
 1. Read the tutorial
